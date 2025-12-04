@@ -66,4 +66,6 @@ Abra no NetBeans:
 ```bash
 File → Open Project
 ```
+Clique com o botão direito no projeto -> "Clean and Build" e depois disso "Reload Project", assim garantimos a execução sem problemas
+
 Selecione o arquivo Main.java, clique com o botão direito -> "Run file" ou Execute com (F6).
